@@ -12,7 +12,7 @@
 	<artifactId>multiplication</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>multiplication</name>
-	<description>Learn Microservices with Spring Boot - Book - Chapter 3</description>
+	<description>Multiplication game</description>
 
 	<properties>
 		<java.version>18</java.version>
